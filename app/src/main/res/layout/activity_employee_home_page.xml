@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="example.uuj.employeerecords.EmployeeHomePage">
+
+    <Button
+        android:id="@+id/btnAddEmployee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickAddEmployee"
+        android:text="Add Employee" />
+
+    <Button
+        android:id="@+id/btnviewall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View All" />
+
+    <Button
+        android:id="@+id/btndelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Employee"
+        android:onClick="onClickDeleteEmployee"/>
+</LinearLayout>

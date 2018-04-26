@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmployeeRecords</string>
+    <string name="txtwelcome"> Please fill in the employees details below: </string>
+    <string name="txtname"> Name: </string>
+    <string name="txtDOB"> DOB: </string>
+    <string name="DOB">Select DOB</string>
+    <string name="txtaddress"> Address: </string>
+    <string name="txttown"> Town: </string>
+    <string name="txtpostcode"> Postcode: </string>
+    <string name="txtemail"> Email: </string>
+    <string name="txtcontactnumber"> Contact Number: </string>
+    <string name="txtjobtitle"> Job Title: </string>
+    <string name="txtsalary"> Salary: </string>
+    <string name="txtcancel"> Cancel </string>
+    <string name="txtadd"> Add Employee </string>
+    <string name="txtrefresh"> Refresh </string>
+    <string name="txtdelete"> Please select the employee you would like to delete: </string>
+</resources>
